@@ -1,0 +1,12 @@
+C:\Users\3020\source\repos\My1StudentCodeFirstDemo\My1StudentCodeFirstDemo\bin\Debug\My1StudentCodeFirstDemo.exe.config
+C:\Users\3020\source\repos\My1StudentCodeFirstDemo\My1StudentCodeFirstDemo\bin\Debug\My1StudentCodeFirstDemo.exe
+C:\Users\3020\source\repos\My1StudentCodeFirstDemo\My1StudentCodeFirstDemo\bin\Debug\My1StudentCodeFirstDemo.pdb
+C:\Users\3020\source\repos\My1StudentCodeFirstDemo\My1StudentCodeFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\3020\source\repos\My1StudentCodeFirstDemo\My1StudentCodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\3020\source\repos\My1StudentCodeFirstDemo\My1StudentCodeFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\3020\source\repos\My1StudentCodeFirstDemo\My1StudentCodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\3020\source\repos\My1StudentCodeFirstDemo\My1StudentCodeFirstDemo\obj\Debug\My1StudentCodeFirstDemo.csproj.AssemblyReference.cache
+C:\Users\3020\source\repos\My1StudentCodeFirstDemo\My1StudentCodeFirstDemo\obj\Debug\My1StudentCodeFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\3020\source\repos\My1StudentCodeFirstDemo\My1StudentCodeFirstDemo\obj\Debug\My1StudentCodeFirstDemo.csproj.CopyComplete
+C:\Users\3020\source\repos\My1StudentCodeFirstDemo\My1StudentCodeFirstDemo\obj\Debug\My1StudentCodeFirstDemo.exe
+C:\Users\3020\source\repos\My1StudentCodeFirstDemo\My1StudentCodeFirstDemo\obj\Debug\My1StudentCodeFirstDemo.pdb
